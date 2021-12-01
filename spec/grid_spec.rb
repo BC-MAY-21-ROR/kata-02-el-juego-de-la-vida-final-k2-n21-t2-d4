@@ -8,3 +8,12 @@ RSpec.describe initialize do
     end
   end
 end
+
+RSpec.describe Grid do
+  context "Init the class" do
+    it "Check if the grid is filled with nils instead of 0 and 1" do
+      random = Grid.new(3,3)
+      expect(random.grid.all?(NilClass)).to equal(false)
+    end
+  end
+end
