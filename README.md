@@ -87,5 +87,5 @@ Generation 2:
 En [este elnace](setup/README.md) se describen los pasos necesarios para ejecutar/probar este proyecto.
 
 ## Resources
-[Encuentra aquí una lista completa de recursos de ayuda](https://github.com/bright-coders/commons/tree/master/topics/resources)
+[Encuentra aquí una lista completa de recursos de ayuda](https://brightcoder.gitbook.io/handbook/ruby-on-rails)
 
